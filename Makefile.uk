@@ -1,0 +1,3 @@
+$(eval $(call addlib,appdemo))
+
+APPDEMO_SRCS-y += $(APPDEMO_BASE)/main.c
